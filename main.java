@@ -3,7 +3,7 @@ public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //HARSAD NUMBER HEHEHEHE
-//eg: 156~1+5+6=12 hence if 156/12 ==0 then it is a harsad number
+//eg: 156->1+5+6=12 hence if 156/12 == 0 then it is a harsad number
 int n;
 int originalnumber;
 int sum=0;
